@@ -1,4 +1,4 @@
-# Health Tracker
+# Health-Tool a Health Tracker
 
 A comprehensive health tracking application built with Angular that helps users monitor their daily health metrics and visualize their progress over time.
 
